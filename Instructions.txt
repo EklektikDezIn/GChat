@@ -1,0 +1,4 @@
+GET TO:  C:\Users\Owner.Samsung-Laptop\Dropbox\GChat\dist>
+TYPE: java -jar GChat.jar
+COPY Lyddie.txt location
+PASTE AND ADD \Lyddie.txt
